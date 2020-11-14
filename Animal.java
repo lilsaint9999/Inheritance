@@ -22,9 +22,7 @@ public class Animal {
     }
 
 
-    public String getName() {
-        return name;
-    }
+    public String getName() { return name; }
 
     public int getBrain() {
         return brain;
