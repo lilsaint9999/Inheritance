@@ -47,6 +47,10 @@ public class Dog extends Animal  {
     public void chew() {
         System.out.println("this stupid yorky is chewing");
     }
+    public String speak()
+    {
+        return "woof";
+    }
 
     @Override
     public void eat() {

@@ -11,5 +11,9 @@ public class Main {
         animal.eat();
         System.out.println(animal.getSize());
         System.out.println(dog.getTeeth());
+
+        System.out.println(dog.speak());
+
+
     }
 }
